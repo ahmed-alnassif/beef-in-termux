@@ -10,6 +10,6 @@ Install beef
 ```bash
 git clone --depth=1 https://github.com/ahmed-alnassif/beef-in-termux
 cd beef-in-termux
-chmod +X install.sh
+chmod +x install.sh
 ./install.sh
 ```
