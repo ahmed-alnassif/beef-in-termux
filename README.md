@@ -1,5 +1,5 @@
 # beef-in-termux
-Install Beef in Termux without any problems or errors with help and support if you find any problem
+Get Beef installed in Termux smoothly without encountering any issues or errors, and receive assistance and support if you encounter any problems.
 
 # Intalition
 Packages needed
