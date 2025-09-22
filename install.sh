@@ -286,7 +286,7 @@ main() {
 	info "FB: fb.me/Ahm3d.Nassif"
   echo
 
-	install_termux()
+	install_termux
 	check_ruby_version
 	check_bundler
 	install_beef
